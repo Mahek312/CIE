@@ -9,5 +9,6 @@ public class basiccalculator {
         System.out.println("subtraction of two numbers:"+(a-b));
         System.out.println("multiplication of two numbers:"+(a*b));
         System.out.println("Division of two numbers:"+(a/b));
+        System.out.println("master");
     }
 }
