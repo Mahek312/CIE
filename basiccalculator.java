@@ -1,7 +1,7 @@
 package CIE;
 
 public class basiccalculator {
-    static float a=10;
+    static float a=20;
     static float b=20;
 
     public static void main(String[] args) {
